@@ -3,11 +3,9 @@
 
 - 📫 How to reach me **sp.sakleshpatil@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WKbPkniafzvme8guUbvl8KX92Ti6mHKO/view?usp=sharing](https://drive.google.com/file/d/1WKbPkniafzvme8guUbvl8KX92Ti6mHKO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KklKmcgD9g_6uduSIIt8NoC9POrEYjP0/view?usp=sharing](https://drive.google.com/file/d/1KklKmcgD9g_6uduSIIt8NoC9POrEYjP0/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

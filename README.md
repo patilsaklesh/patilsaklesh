@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saklesh</h1>
 <h3 align="center">I'm a Machine Learning Engineer from Hyderabad. I have experience in NLP, RAG, Agentic AI, and Generative AI — passionate about building scalable AI-driven systems.</h3>
 
-- 📫 How to reach me **sp.sakleshpatil@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
